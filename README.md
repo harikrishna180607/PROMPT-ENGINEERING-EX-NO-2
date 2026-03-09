@@ -236,6 +236,9 @@ Blockchain offers a compelling set of advantages that explain its rapid adoption
 
 Conclusion
 Blockchain technology represents a fundamental shift in how the digital world records and shares information. By combining decentralization, cryptographic security, and transparent consensus, it creates a system where trust is built into the technology itself — not dependent on any single institution or authority. From finance and healthcare to supply chains and voting systems, blockchain's potential to reshape industries is only beginning to be realized.
+
+<img width="1287" height="371" alt="image" src="https://github.com/user-attachments/assets/a240a60a-0e2f-4255-b531-e97a181b60f1" />
+
     
   
 
